@@ -12,5 +12,7 @@ To solve the above problems, we have designed an AquiClean module that could per
 
 •	Automatically feeds the fishes at regular interval through an automatic feeding system.   
 
+• Allows users to view the stats of the aquarium fom sensors anytime, anywhere through the use of Blynk app.
 
-With this proposed system, it does not require a daily human time and the automatic care of the aquarium is taken care by the proposed module. 
+
+Thus, by using the AquiClean module the problems which are faced by aquarium users can be solved by automating the process of water cleaning and feeding while maintaining optimum water levels and temperature. This reduces the consumption of human time and efforts required for maintaining an aquarium and making it easier to use in every home. 
